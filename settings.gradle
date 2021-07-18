@@ -1,0 +1,2 @@
+rootProject.name = "Memverse"
+include ':app'
